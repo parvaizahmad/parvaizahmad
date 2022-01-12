@@ -1,6 +1,6 @@
-### Hi there, I'm Parvaiz Ahmad 👋 
+## Hi there, I'm Parvaiz Ahmad 👋 
 
-## I'm a Husband, Father, Developer, and Maker!!
+### I'm a Husband, Father, Developer, and Maker!!
 
 - 🔭 I code and play with electronics
 - 🌱 I’m currently learning everything 🤣
