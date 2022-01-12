@@ -2,7 +2,7 @@
 
 ## I'm a Husband, Father, Developer, and Maker!!
 
-- 🔭 I code and play with electronics: [Some videos!][course]!
+- 🔭 I code and play with electronics
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goal: Contribute to some Open Source projects
@@ -29,20 +29,8 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parvaizahmad)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=parvaizahmad&show_icons=true&hide_border=true" />
-
-</details>
 
 [twitter]: https://twitter.com/parvaizsaabri
 [youtube]:https://www.youtube.com/parvaizahmadofficial
