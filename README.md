@@ -23,6 +23,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Engineer banna hai.. 😆😆 #shorts #funny #viral](https://www.youtube.com/watch?v=AElu8w66BHE)
+- [Control anything with #playstation controller and #esp32 #shorts #robotics #ps3](https://www.youtube.com/watch?v=SXcs80XEhDA)
+- [IoT based Energy Meter #shorts #iot #esp32 #amazing  #ideas #homeautomation](https://www.youtube.com/watch?v=epzNflHcmi4)
+- [IoT Based Energy Meter Using #ESP8266 | #ESP32 | Home Automation](https://www.youtube.com/watch?v=zUN4rn9duQ0)
+- [#esp32 #arduino #iot #homeautomation #diy #diyprojects #diyideas #shorts #short](https://www.youtube.com/watch?v=Kp0FZ0LDJEI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/parvaizahmadofficial)
