@@ -34,7 +34,7 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parvaizahmad)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parvaizahmad&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [twitter]: https://twitter.com/parvaizsaabri
