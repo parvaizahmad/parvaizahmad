@@ -23,11 +23,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [PCB soldering #shorts #youtubeshort #short](https://www.youtube.com/watch?v=pUGDECqx-OY)
 - [Ultimate PCB Making at Home DIY](https://www.youtube.com/watch?v=r7OJA_2BMT0)
 - [PCB design #shorts #youtubeshort #short #diy](https://www.youtube.com/watch?v=uzT2H8OlB6I)
 - [SONOFF Like Switch Using #ESP8266 | #ESP32 | #HomeAutomation](https://www.youtube.com/watch?v=pqPR58PhXZQ)
 - [linux on android #mobile #shorts #youtubeshorts #linux #android #ubuntu](https://www.youtube.com/watch?v=gmKC-PDjNUQ)
-- [Control anything with #playstation controller and #esp32 #shorts #robotics #ps3](https://www.youtube.com/watch?v=SXcs80XEhDA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/parvaizahmadofficial)
