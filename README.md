@@ -23,11 +23,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Power Supply #shorts #youtubeshorts #short](https://www.youtube.com/watch?v=mnelEhKORcE)
 - [Something special #shorts #youtubeshorts #short](https://www.youtube.com/watch?v=3JCROe9AIa8)
 - [SMD on bread board #shorts #youtubeshort #short](https://www.youtube.com/watch?v=bAKxO_WUnKM)
 - [PCB soldering #shorts #youtubeshort #short](https://www.youtube.com/watch?v=pUGDECqx-OY)
 - [Ultimate PCB Making at Home DIY](https://www.youtube.com/watch?v=r7OJA_2BMT0)
-- [PCB design #shorts #youtubeshort #short #diy](https://www.youtube.com/watch?v=uzT2H8OlB6I)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/parvaizahmadofficial)
