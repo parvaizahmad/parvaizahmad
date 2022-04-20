@@ -25,7 +25,7 @@
 <!-- YOUTUBE:START -->
 - [Water Cooling #shorts #youtubeshorts #short](https://www.youtube.com/watch?v=qvy6ebDVnZk)
 - [UPS for Arduino #shorts #youtubeshort #short](https://www.youtube.com/watch?v=_h2LA4L_wkc)
-- [Power Supply #shorts #youtubeshorts #short](https://www.youtube.com/watch?v=mnelEhKORcE)
+- [BB Power Supply MOD #shorts #youtubeshorts #short](https://www.youtube.com/watch?v=mnelEhKORcE)
 - [Something special #shorts #youtubeshorts #short](https://www.youtube.com/watch?v=3JCROe9AIa8)
 - [SMD on bread board #shorts #youtubeshort #short](https://www.youtube.com/watch?v=bAKxO_WUnKM)
 <!-- YOUTUBE:END -->
