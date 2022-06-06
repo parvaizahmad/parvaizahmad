@@ -23,11 +23,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [DIY IoT based Energy Meter #shorts #short #shortvideo #youtubeshorts #esp32 #esp8266](https://www.youtube.com/watch?v=jvpD1jzXObw)
 - [Working on something #shorts #short #youtubeshorts](https://www.youtube.com/watch?v=Swq-5zeDp4M)
 - [Wireless Communication Using Light](https://www.youtube.com/watch?v=5pN_18U0Gcc)
 - [Uninterruptible Power Supply | UPS for Arduino | ESP](https://www.youtube.com/watch?v=nZskxU9YOWk)
 - [Indian Hack #shorts #youtubeshorts #short](https://www.youtube.com/watch?v=0ogMogg_hck)
-- [UPS for Arduino #shorts #youtubeshort #short](https://www.youtube.com/watch?v=_h2LA4L_wkc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/parvaizahmadofficial)
