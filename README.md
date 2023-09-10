@@ -23,11 +23,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Get WiFi Password #trick #howto #shorts #shortvideo](https://www.youtube.com/watch?v=KBfRc9gJqQo)
 - [Play YouTube in background #shorts #youtubeshorts #short #tricks #tricks](https://www.youtube.com/watch?v=2UEiHxTRMsw)
 - [Control Your Bulb With Mobile | DIY Hack](https://www.youtube.com/watch?v=xQptsKAjIvo)
 - [Water Level Indicator #short #shortvideo #youtubeshorts #shorts](https://www.youtube.com/watch?v=zbq3MFScsZc)
 - [Water Level Indicator for Water Tank | #waterlevelindicator](https://www.youtube.com/watch?v=jZUCRYFUJxg)
-- [DIY IoT based Energy Meter #shorts #short #shortvideo #youtubeshorts #esp32 #esp8266](https://www.youtube.com/watch?v=jvpD1jzXObw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/parvaizahmadofficial)
