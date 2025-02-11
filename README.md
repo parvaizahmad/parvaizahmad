@@ -31,11 +31,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [#solis  inverter settings part 2](https://www.youtube.com/watch?v=M90cwhYSROw)
 - [#solis  Inverter Setting Part 1 | Solar System](https://www.youtube.com/watch?v=aZUz6ujuiOo)
 - [Virtual Joystick for #esp32 #esp8266 #arduino #joystick #ps3controller](https://www.youtube.com/watch?v=hbWbqERVrps)
 - [Get WiFi Password #trick #howto #shorts #shortvideo](https://www.youtube.com/watch?v=KBfRc9gJqQo)
 - [Play YouTube in background #shorts #youtubeshorts #short #tricks #tricks](https://www.youtube.com/watch?v=2UEiHxTRMsw)
-- [Control Your Bulb With Mobile | DIY Hack](https://www.youtube.com/watch?v=xQptsKAjIvo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/parvaizahmadofficial)
