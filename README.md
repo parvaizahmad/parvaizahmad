@@ -31,11 +31,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Solis Inverter Settings part 4 | #solis #solarinverter](https://www.youtube.com/watch?v=c4409yVqgTc)
 - [WiFi Relay | Home Automation | #iot #esp8266 #esp32](https://www.youtube.com/watch?v=aYsMx-c7XKs)
 - [Run DeepSeekR1 on Local System | Laptop | PC #deepseek #ai](https://www.youtube.com/watch?v=F6kgsYdpW0w)
 - [#solis  inverter settings part 2](https://www.youtube.com/watch?v=M90cwhYSROw)
 - [#solis  Inverter Setting Part 1 | Solar System](https://www.youtube.com/watch?v=aZUz6ujuiOo)
-- [Virtual Joystick for #esp32 #esp8266 #arduino #joystick #ps3controller](https://www.youtube.com/watch?v=hbWbqERVrps)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/parvaizahmadofficial)
