@@ -31,11 +31,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Be a Maker #shorts #esp32 #arduino](https://www.youtube.com/watch?v=Mhxhgk8Qn08)
 - [WiFi Led Bulb | #shorts #electronicmusic #esp32](https://www.youtube.com/watch?v=Ap1-bhjVcgs)
 - [Solis Inverter Settings part 4 | #solis #solarinverter](https://www.youtube.com/watch?v=c4409yVqgTc)
 - [WiFi Relay | Home Automation | #iot #esp8266 #esp32](https://www.youtube.com/watch?v=aYsMx-c7XKs)
 - [Run DeepSeekR1 on Local System | Laptop | PC #deepseek #ai](https://www.youtube.com/watch?v=F6kgsYdpW0w)
-- [#solis  inverter settings part 2](https://www.youtube.com/watch?v=M90cwhYSROw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/parvaizahmadofficial)
