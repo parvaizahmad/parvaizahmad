@@ -31,11 +31,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Home Automation | Control Lights using #esp32 #esp8266 &amp; #blynk](https://www.youtube.com/watch?v=U0rq_mr8IDU)
 - [IoT Smart Door Lock System | #esp8266  #esp32 #arduino](https://www.youtube.com/watch?v=m0YlVzUOv6U)
 - [Be a Maker #shorts #esp32 #arduino](https://www.youtube.com/watch?v=Mhxhgk8Qn08)
 - [WiFi Led Bulb | #shorts #electronicmusic #esp32](https://www.youtube.com/watch?v=Ap1-bhjVcgs)
 - [Solis Inverter Settings part 4 | #solis #solarinverter](https://www.youtube.com/watch?v=c4409yVqgTc)
-- [WiFi Relay | Home Automation | #iot #esp8266 #esp32](https://www.youtube.com/watch?v=aYsMx-c7XKs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/parvaizahmadofficial)
