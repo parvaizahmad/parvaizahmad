@@ -31,7 +31,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [PCB Making for IoT-based Relay Board &lpar;Part 1&rpar;](https://www.youtube.com/watch?v=AL9DNkoYSis)
+- [PCB Making for IoT Based Relay Board &lpar;Part 1&rpar;](https://www.youtube.com/watch?v=AL9DNkoYSis)
 - [Making new IoT board #esp32 #arduinoboard](https://www.youtube.com/watch?v=iUGiPCoaPD4)
 - [Home Automation | Control Lights using #esp32 #esp8266 &amp; #blynk](https://www.youtube.com/watch?v=U0rq_mr8IDU)
 - [IoT Smart Door Lock System | #esp8266  #esp32 #arduino](https://www.youtube.com/watch?v=m0YlVzUOv6U)
