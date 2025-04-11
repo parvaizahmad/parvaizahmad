@@ -31,11 +31,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Control Anything with Amazon Alexa | #amazonalexa #esp32 #iotprojects #diyelectronics](https://www.youtube.com/watch?v=lyoPCgIqMM8)
 - [Iot Relay Board  #esp32 #arduino #esp8266](https://www.youtube.com/watch?v=-75avf-B6QE)
 - [PCB Making for IoT Based Relay Board &lpar;Part 2&rpar; | #esp8266 | #arduino](https://www.youtube.com/watch?v=afrqPTkh2oY)
 - [ESP8266 Based IoT Realy Board #esp32 #arduinoboard #iotprojects #iot](https://www.youtube.com/watch?v=xFbGWQzs7_U)
 - [Fix PCB Tracks #pcb #shorts #makers](https://www.youtube.com/watch?v=uD31OhS9AMg)
-- [ESP8266 based relay board #shortvideo #esp32 #arduino](https://www.youtube.com/watch?v=Shy_mrWxXbc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/parvaizahmadofficial)
