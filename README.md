@@ -31,11 +31,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Amazon Alexa Can Do Anything | #techvlog #esp32 #arduino #homeautomation](https://www.youtube.com/watch?v=h96WbSRdFnc)
 - [Use Virtual Controller | No Need of Play Station Controller | #esp32 #playstation](https://www.youtube.com/watch?v=DiOjzlxyG8o)
 - [Watch Before Buying #lithiumbattery #lithium](https://www.youtube.com/watch?v=macTrhSpSJ4)
 - [Control Anything with Amazon Alexa | #amazonalexa #esp32 #iotprojects #diyelectronics](https://www.youtube.com/watch?v=lyoPCgIqMM8)
 - [Iot Relay Board  #esp32 #arduino #esp8266](https://www.youtube.com/watch?v=-75avf-B6QE)
-- [PCB Making for IoT Based Relay Board &lpar;Part 2&rpar; | #esp8266 | #arduino](https://www.youtube.com/watch?v=afrqPTkh2oY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/parvaizahmadofficial)
