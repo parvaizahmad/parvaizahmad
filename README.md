@@ -31,11 +31,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ASMR Diy Eelectronics Project #esp32 #homeautomation #arduino](https://www.youtube.com/watch?v=wDxV6SBEvMM)
 - [Water Pump Automation | #esp32 #esp8266 #homeautomation #diyelectronics #diyprojects](https://www.youtube.com/watch?v=hv9pCZfpF_4)
 - [ASMR: Satisfying Relay Module Build | ESP8266 DIY](https://www.youtube.com/watch?v=IAsUps090D0)
 - [Amazon Alexa Can Do Anything | #techvlog #esp32 #arduino #homeautomation](https://www.youtube.com/watch?v=h96WbSRdFnc)
 - [Use Virtual Controller | No Need of Play Station Controller | #esp32 #playstation](https://www.youtube.com/watch?v=DiOjzlxyG8o)
-- [Watch Before Buying #lithiumbattery #lithium](https://www.youtube.com/watch?v=macTrhSpSJ4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/parvaizahmadofficial)
