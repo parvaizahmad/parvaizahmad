@@ -31,11 +31,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [You Need to Learn This | #diyelectronics #arduino #esp32 #esp8266](https://www.youtube.com/watch?v=A5t-nQIlxG4)
 - [Solar Panels Cleaning System | #diy #tipsandtricks #solarsystem](https://www.youtube.com/watch?v=s_FG8yj9KB4)
 - [ASMR Diy Eelectronics Project #esp32 #homeautomation #arduino](https://www.youtube.com/watch?v=ZYBo20kwN0o)
 - [Water Pump Automation | #esp32 #esp8266 #homeautomation #diyelectronics #diyprojects](https://www.youtube.com/watch?v=hv9pCZfpF_4)
 - [ASMR: Satisfying Relay Module Build | ESP8266 DIY](https://www.youtube.com/watch?v=IAsUps090D0)
-- [Amazon Alexa Can Do Anything | #techvlog #esp32 #arduino #homeautomation](https://www.youtube.com/watch?v=h96WbSRdFnc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/parvaizahmadofficial)
