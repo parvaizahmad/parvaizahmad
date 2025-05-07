@@ -31,11 +31,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ESP8266 Based IoT Meter | Home Automation | DIY](https://www.youtube.com/watch?v=H5w49zteH9g)
 - [ASMR: Water Level Sensor Unboxing| #diyelectronics #homeautomation](https://www.youtube.com/watch?v=tosv1TioCvo)
 - [Yes! We Can Use Human Body As Anteena](https://www.youtube.com/watch?v=fYMQHBSFVMA)
 - [Control Water Pump from Your Phone! | #esp8266  #arduino #blynk](https://www.youtube.com/watch?v=D3ov-I61VmI)
 - [You Need to Learn This | #diyelectronics #arduino #esp32 #esp8266](https://www.youtube.com/watch?v=A5t-nQIlxG4)
-- [Solar Panels Cleaning System | #diy #tipsandtricks #solarsystem](https://www.youtube.com/watch?v=s_FG8yj9KB4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/parvaizahmadofficial)
