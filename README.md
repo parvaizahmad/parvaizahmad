@@ -31,11 +31,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [2: Arduino IDE Installation | Complete Setup | Urdu/Hindi](https://www.youtube.com/watch?v=nfht_OYzxek)
+- [1: What Arduino Is | Introduction To Arduino Boards | Urdu/Hindi](https://www.youtube.com/watch?v=kLLOWR17cik)
 - [Why Arduino &amp; ESP Boards Are Inexpensive  | #arduino #esp32](https://www.youtube.com/watch?v=w37Tvk6c1Sk)
 - [Automatic Water Level Controller using ESP8266 &amp; Arduino](https://www.youtube.com/watch?v=dhdAJME11p8)
 - [ESP8266 Based IoT Meter | Home Automation | DIY](https://www.youtube.com/watch?v=H5w49zteH9g)
-- [ASMR: Water Level Sensor Unboxing| #diyelectronics #homeautomation](https://www.youtube.com/watch?v=tosv1TioCvo)
-- [Yes! We Can Use Human Body As Anteena](https://www.youtube.com/watch?v=fYMQHBSFVMA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/parvaizahmadofficial)
