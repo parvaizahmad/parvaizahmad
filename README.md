@@ -31,11 +31,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Simulate Arduino 100% Free | #arduino #esp32](https://www.youtube.com/watch?v=jj-ARErLnmk)
+- [3: Simulate Arduino Online Free | Urdu/Hindi](https://www.youtube.com/watch?v=c0vLEsK99VY)
 - [2: Arduino IDE Installation | Complete Setup | Urdu/Hindi](https://www.youtube.com/watch?v=nfht_OYzxek)
 - [1: What Arduino Is | Introduction To Arduino Boards | Urdu/Hindi](https://www.youtube.com/watch?v=kLLOWR17cik)
 - [Why Arduino &amp; ESP Boards Are Inexpensive  | #arduino #esp32](https://www.youtube.com/watch?v=w37Tvk6c1Sk)
-- [Automatic Water Level Controller using ESP8266 &amp; Arduino](https://www.youtube.com/watch?v=dhdAJME11p8)
-- [ESP8266 Based IoT Meter | Home Automation | DIY](https://www.youtube.com/watch?v=H5w49zteH9g)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/parvaizahmadofficial)
