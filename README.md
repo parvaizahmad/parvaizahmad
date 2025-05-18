@@ -31,11 +31,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [4: Master Arduino Data Types in 5 Minutes &lpar;Beginners Always Miss This!&rpar;](https://www.youtube.com/watch?v=W4aAh4IhveQ)
 - [Simulate Arduino 100% Free | #arduino #esp32](https://www.youtube.com/watch?v=jj-ARErLnmk)
 - [3: Simulate Arduino Online Free | Urdu/Hindi](https://www.youtube.com/watch?v=c0vLEsK99VY)
 - [2: Arduino IDE Installation | Complete Setup | Urdu/Hindi](https://www.youtube.com/watch?v=nfht_OYzxek)
 - [1: What Arduino Is | Introduction To Arduino Boards | Urdu/Hindi](https://www.youtube.com/watch?v=kLLOWR17cik)
-- [Why Arduino &amp; ESP Boards Are Inexpensive  | #arduino #esp32](https://www.youtube.com/watch?v=w37Tvk6c1Sk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/parvaizahmadofficial)
