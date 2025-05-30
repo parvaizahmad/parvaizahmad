@@ -31,11 +31,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Solis Inverter Lying About Your Battery? #solis #solarinverter](https://www.youtube.com/watch?v=GRdQ__sZYpY)
 - [6: Arduino Functions EXPLAINED &lpar;Scope, Return, Parameters!&rpar; Urdu/Hindi](https://www.youtube.com/watch?v=Lu5eSyaKVuY)
 - [5: Arduino Variables vs Constants EXPLAINED &lpar;Stop Making This Mistake!&rpar;](https://www.youtube.com/watch?v=6WEwxl-kwUI)
 - [What is a PIR Sensor? | Motion Detection Explained](https://www.youtube.com/watch?v=2WUZ6hubNrI)
 - [4: Master Arduino Data Types in 5 Minutes &lpar;Beginners Always Miss This!&rpar;](https://www.youtube.com/watch?v=W4aAh4IhveQ)
-- [Simulate Arduino 100% Free | #arduino #esp32](https://www.youtube.com/watch?v=jj-ARErLnmk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/parvaizahmadofficial)
