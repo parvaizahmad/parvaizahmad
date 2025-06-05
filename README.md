@@ -31,11 +31,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [8: Master Arduino Loops | for, while, do-while Explained! Urdu/Hindi](https://www.youtube.com/watch?v=Hc77qTBdSrc)
 - [Upgrading My Amazon Alexa Relay Board to Blynk IoT! 🔧📲](https://www.youtube.com/watch?v=gw8q0quCn8c)
 - [7: Master Arduino Logic: If Else &amp; Switch Explained! Urdu/Hindi](https://www.youtube.com/watch?v=IwTZEZ12zRM)
 - [Solis Inverter Lying About Your Battery? #solis #solarinverter](https://www.youtube.com/watch?v=GRdQ__sZYpY)
 - [6: Arduino Functions EXPLAINED &lpar;Scope, Return, Parameters!&rpar; Urdu/Hindi](https://www.youtube.com/watch?v=Lu5eSyaKVuY)
-- [5: Arduino Variables vs Constants EXPLAINED &lpar;Stop Making This Mistake!&rpar;](https://www.youtube.com/watch?v=6WEwxl-kwUI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/parvaizahmadofficial)
