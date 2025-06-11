@@ -31,11 +31,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Wifi Smart Switches | #esp32 #esp8266 #arduino](https://www.youtube.com/watch?v=YvQ2r7j0RtA)
 - [9: Complete Guide to Arrays in Arduino | Urdu / Hindi](https://www.youtube.com/watch?v=7SaTUWgy9r4)
 - [8: Master Arduino Loops | for, while, do-while Explained! Urdu/Hindi](https://www.youtube.com/watch?v=Hc77qTBdSrc)
 - [Upgrading My Amazon Alexa Relay Board to Blynk IoT! 🔧📲](https://www.youtube.com/watch?v=gw8q0quCn8c)
 - [7: Master Arduino Logic: If Else &amp; Switch Explained! Urdu/Hindi](https://www.youtube.com/watch?v=IwTZEZ12zRM)
-- [Solis Inverter Lying About Your Battery? #solis #solarinverter](https://www.youtube.com/watch?v=GRdQ__sZYpY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/parvaizahmadofficial)
