@@ -31,11 +31,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Upgrading IoT Switch | #iot #diyprojects #ewelink](https://www.youtube.com/shorts/jQGF-vv1wH8)
 - [✅ Smart WiFi Switch Setup with eWeLink App | Full Guide, Limitations &amp; Uses](https://www.youtube.com/watch?v=kh15cBdNS8w)
 - [Video Making in Progress | #tech #esp32 #electronicsdiy](https://www.youtube.com/shorts/2ZRPRT8zaBQ)
 - [Wifi Smart Switches | #esp32 #esp8266 #arduino](https://www.youtube.com/watch?v=YvQ2r7j0RtA)
 - [9: Complete Guide to Arrays in Arduino | Urdu / Hindi](https://www.youtube.com/watch?v=7SaTUWgy9r4)
-- [8: Master Arduino Loops | for, while, do-while Explained! Urdu/Hindi](https://www.youtube.com/watch?v=Hc77qTBdSrc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/parvaizahmadofficial)
