@@ -31,11 +31,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Upgrading My IoT Bulb 🚀 | ESP8266](https://www.youtube.com/shorts/YV2_DL-iHsQ)
 - [🚀 Arduino Uno Explained in Under 1 Minute! #shorts](https://www.youtube.com/shorts/drWiTaeCi84)
 - [Water Level Control Switch Upgrade | #homeautomation #techupgrade #iot](https://www.youtube.com/watch?v=zEXAsoA0YLw)
 - [Upgrading IoT Switch | #iot #diyprojects #ewelink](https://www.youtube.com/shorts/jQGF-vv1wH8)
 - [✅ Smart WiFi Switch Setup with eWeLink App | Full Guide, Limitations &amp; Uses](https://www.youtube.com/watch?v=kh15cBdNS8w)
-- [Video Making in Progress | #tech #esp32 #electronicsdiy](https://www.youtube.com/shorts/2ZRPRT8zaBQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/parvaizahmadofficial)
