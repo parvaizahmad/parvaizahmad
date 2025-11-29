@@ -31,11 +31,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [11: How to Blink an LED with Arduino UNO | Beginner&#39;s Guide &lpar;Step-by-Step Tutorial!&rpar;](https://www.youtube.com/watch?v=dNE-ThUxcIo)
 - [10: Arduino UNO Pins Explained 🔥 Digital, Analog &amp; Power Pins Made Easy!](https://www.youtube.com/watch?v=jd68a7AWNWQ)
 - [How to Flash Tasmota on ESP8266 | Upgrade from Custom Firmware for Smart Home Control!](https://www.youtube.com/watch?v=MBfOMEI_JCc)
 - [Upgrading My IoT Bulb 🚀 | ESP8266](https://www.youtube.com/shorts/YV2_DL-iHsQ)
 - [🚀 Arduino Uno Explained in Under 1 Minute! #shorts](https://www.youtube.com/shorts/drWiTaeCi84)
-- [Water Level Control Switch Upgrade | #homeautomation #techupgrade #iot](https://www.youtube.com/watch?v=zEXAsoA0YLw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/parvaizahmadofficial)
