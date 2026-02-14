@@ -31,11 +31,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Best IOT platform #vwireiot #blynk #iot](https://www.youtube.com/shorts/mL2-lTrIZPM)
 - [5: Linux Command Line Explained | CLI vs GUI](https://www.youtube.com/watch?v=fEmlQbt1HHI)
 - [4: Linux File System Hierarchy Explained: From Root to User | Linux Basics for Beginners](https://www.youtube.com/watch?v=d0H5VU-c4Qk)
 - [3: How to Install Ubuntu on VirtualBox: Complete Step-by-Step Guide](https://www.youtube.com/watch?v=2_447kEjPps)
 - [Linux: From Smart Toasters to Supercomputers 🚀](https://www.youtube.com/shorts/XlURk3yumzw)
-- [2: Linux Distros Explained in Simple Terms | Ubuntu, Fedora, RedHat &amp; More](https://www.youtube.com/watch?v=YrlOIkn9Z_E)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/parvaizahmadofficial)
