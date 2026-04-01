@@ -31,11 +31,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Biker Car IoT security system using Vwire IoT #vwire #iot #esp32](https://www.youtube.com/shorts/rtIW-BzcZ5o)
 - [ESP8266 + PIR Sensor: Get Worldwide Mobile Alerts using Vwire IoT Cloud](https://www.youtube.com/watch?v=g1wMkSBkRCc)
 - [Vwire IoT: Build Modern Dashboards in Minutes!](https://www.youtube.com/watch?v=rhU1NDfmmZY)
 - [Free Car Location Tracker #iot #vwire #vwireiot](https://www.youtube.com/watch?v=WJELcKE-rB0)
 - [IoT Relay Board, Control anything #vwireiot #vwire](https://www.youtube.com/shorts/8iiSYyd2WUc)
-- [Best IOT platform #vwireiot #blynk #iot](https://www.youtube.com/shorts/mL2-lTrIZPM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/parvaizahmadofficial)
